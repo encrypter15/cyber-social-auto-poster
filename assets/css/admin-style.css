@@ -1,0 +1,9 @@
+/* Admin styles for Cyber Social Auto-Poster */
+.csap-settings-page {
+    max-width: 800px;
+    margin: 20px;
+}
+.csap-calendar {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
